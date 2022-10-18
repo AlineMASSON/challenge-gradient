@@ -6,4 +6,4 @@ Génerateur de dégradés avec ReactJS et Redux.
 
 ## :computer: Résultat
 
-Git clone pour voir le resultat :sparkles:
+[Voir le resultat :sparkles:](https://alinemasson-challenge-gradient.surge.sh/)
